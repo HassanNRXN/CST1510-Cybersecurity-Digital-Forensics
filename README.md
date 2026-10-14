@@ -1,2 +1,2 @@
 # CST1510-Cybersecurity-Digital-Forensics
-Repository containing weekly projects and journals.
+Repository containing weekly Labs and Projects.
